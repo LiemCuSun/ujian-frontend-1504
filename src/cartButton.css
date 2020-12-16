@@ -1,0 +1,38 @@
+#icon-button {
+    color: white;
+}
+
+#menu-item {
+    display: flex;
+    align-items: center;
+}
+
+#menu-item-info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#menu-item-title {
+    font-size: 16px;
+    color: #130F40;
+}
+
+.image-content {
+    width: 70px;
+    height: 70px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.info-container {
+    margin-left: 15px;
+}
+
+#info {
+    font-size: 16px;
+}
+
+.link {
+    text-decoration: none;
+}
